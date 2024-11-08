@@ -1,4 +1,4 @@
-# umfg-redes-proto
+# umfg-redes-proto-go
 
 ### Run
 
