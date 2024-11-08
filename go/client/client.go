@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/D1360-64RC14/umfg-redes-proto/proto"
+	"github.com/D1360-64RC14/umfg-redes-proto/go/proto"
 )
 
 const (

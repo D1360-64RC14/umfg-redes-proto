@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/D1360-64RC14/umfg-redes-proto/proto"
+	"github.com/D1360-64RC14/umfg-redes-proto/go/proto"
 )
 
 func encodeMessage(message proto.Message) string {

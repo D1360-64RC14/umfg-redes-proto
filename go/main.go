@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/D1360-64RC14/umfg-redes-proto/client"
-	"github.com/D1360-64RC14/umfg-redes-proto/proto"
+	"github.com/D1360-64RC14/umfg-redes-proto/go/client"
+	"github.com/D1360-64RC14/umfg-redes-proto/go/proto"
 )
 
 const (
