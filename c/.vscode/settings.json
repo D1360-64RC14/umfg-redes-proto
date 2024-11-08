@@ -1,0 +1,17 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "makefile.configureOnOpen": true,
+    "C_Cpp.formatting": "vcFormat",
+    "todohighlight.keywords": [
+        {
+            "text": "WARN",
+            "backgroundColor": "#FFFF00",
+            "color": "#000000",
+        },
+        {
+            "text": "NOTE",
+            "backgroundColor": "#0000FF",
+            "color": "#FFFFFF",
+        }
+    ]
+}
